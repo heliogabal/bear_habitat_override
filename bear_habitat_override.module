@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Bear Habitat Override feature.
+ */
+
+include_once 'bear_habitat_override.features.inc';
